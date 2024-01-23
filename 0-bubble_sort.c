@@ -2,7 +2,7 @@
 
 /**
  * bubble_sort - sorts an array of integers in ascending order
- * 			using the Bubble sort algorithm
+ * using the Bubble sort algorithm
  * @array: the array to be sorted
  * @size: the size of the array
  *
