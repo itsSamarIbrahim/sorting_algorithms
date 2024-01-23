@@ -36,7 +36,8 @@ int partition(int *array, int low, int high, size_t size)
 }
 
 /**
- * quick_sort_helper - recursively sorts the array using the Quick sort algorithm
+ * quick_sort_helper - recursively sorts the array using
+ * the Quick sort algorithm
  * @array: the array to be partitioned
  * @low: the lowest bond of the array
  * @high: the highest bond of the array
